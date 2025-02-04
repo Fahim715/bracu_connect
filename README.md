@@ -54,5 +54,6 @@
 - [![Facebook](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)](https://www.facebook.com/mohammad.mehrab.3958)
 
 ---
-
+* Contact Us through sm.shakil.ahmed@g.bracu.ac.bd
+---
 **BRACU CONNECT** – Simplifying your university life, one tap at a time. 🎓✨  

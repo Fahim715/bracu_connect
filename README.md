@@ -37,18 +37,18 @@
 
 ## 👨‍💻 Developer Credits
 
-### S. M. Shakil Ahmed  
+### S.M. Shakil Ahmed  
 - 🎓 **Student, Department of Computer Science Engineering, Brac University**
 - [![github](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/github.svg)](https://github.com/shakilofficial0)
 - [![Facebook](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)](https://www.facebook.com/shakilofficialdll)
 
 
-### Sakib  
+### M.D. Sakib Hossain
 - 🎓 **Student, Department of Computer Science Engineering, Brac University**
 - [![github](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/github.svg)](https://github.com/sakibhossain0)
 - [![Facebook](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)](https://www.facebook.com/sakib.hossain.927415)
 
-### Mehrab  
+###  Mohammad Mehrab Islam Fahim
 - 🎓 **Student, Department of Computer Science Engineering, Brac University**
 - [![github](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/github.svg)](https://github.com/Fahim715)
 - [![Facebook](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)](https://www.facebook.com/mohammad.mehrab.3958)

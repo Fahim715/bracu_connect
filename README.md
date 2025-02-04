@@ -38,22 +38,23 @@
 ## 👨‍💻 Developer Credits
 
 ### S. M. Shakil Ahmed  
-- 🎓 **ID:** 21201011  
-- 📧 [Email](mailto:sm.shakil.ahme@g.bracu.ac.bd)  
-- 💻 [GitHub](https://github.com/shakilofficial0)  
-- 🌐 [Facebook](https://www.facebook.com/shakilofficialdll) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)
+- 🎓 **Student, Department of Computer Science Engineering, Brac University**  
+
+[![github](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/github.svg)](https://github.com/shakilofficial0) [![Facebook](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)](https://www.facebook.com/shakilofficialdll)
+
 
 ### Sakib  
-- 🎓 **ID:** 23101316  
-- 📧 [Email](mailto:md.sakib.hossain2@g.bracu.ac.bd)  
-- 💻 [GitHub](https://github.com/sakibhossain0)  
-- 🌐 [Facebook](https://www.facebook.com/sakib.hossain.927415) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)
+- 🎓 **Student, Department of Computer Science Engineering, Brac University**
+
+
+
+ [![github](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/github.svg)](https://github.com/sakibhossain0) [![Facebook](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)](https://www.facebook.com/sakib.hossain.927415)
 
 ### Mehrab  
-- 🎓 **ID:** 21101190  
-- 📧 [Email](mailto:mehrab.islam.fahim@g.bracu.ac.bd)  
-- 💻 [GitHub](https://github.com/Fahim715)  
-- 🌐 [Facebook](https://www.facebook.com/mohammad.mehrab.3958) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)
+- 🎓 **Student, Department of Computer Science Engineering, Brac University**
+
+
+[![github](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/github.svg)](https://github.com/Fahim715) [![Facebook](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)](https://www.facebook.com/mohammad.mehrab.3958)
 
 ---
 

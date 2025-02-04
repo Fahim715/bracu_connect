@@ -18,7 +18,7 @@
 ✅ **User-Friendly Interface** – Designed for seamless navigation and ease of use.  
 ✅ **More Features Coming Soon!** – We’re constantly working to add more exciting features to enhance your experience.
 
-<img src="https://github.com/user-attachments/assets/8b854476-7adb-42f1-9be6-54bdda24a89c" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/8b854476-7adb-42f1-9be6-54bdda24a89c" alt="Alt Text" width="278" height="500">
 
 ---
 ## Why BRACU CONNECT? 💡

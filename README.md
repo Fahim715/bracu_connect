@@ -57,7 +57,7 @@
 - [![Facebook](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)](https://www.facebook.com/shakilofficialdll)
 
 
-### M.D. Sakib Hossain
+### MD. Sakib Hossain
 - 🎓 **Student, Department of Computer Science Engineering, Brac University**
 - [![github](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/github.svg)](https://github.com/sakibhossain0)
 - [![Facebook](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)](https://www.facebook.com/sakib.hossain.927415)

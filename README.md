@@ -1,8 +1,10 @@
 # BRACU_Connect
 ## BRAC University Student Life Cycle Management System
 
+
+
 <p align="center">
-<img width="375" alt="Connect" src="https://github.com/user-attachments/assets/1c3b4a14-13c8-4105-bfef-c6722b8e3f87" />
+<img width="375" alt="Connect-2" src="https://github.com/user-attachments/assets/bf72e68b-0cbb-4c4d-b973-c01c3286f80c" />
 </p>
 
 **BRACU CONNECT** is the ultimate university companion app designed exclusively for **BRAC University students**. This all-in-one platform simplifies student life by providing easy access to class schedules, exam details, course information, results, payment tracking, and more – all in one place!

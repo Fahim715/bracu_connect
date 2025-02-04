@@ -1,5 +1,5 @@
 # BRACU_Connect
-**BRAC University Student Life Cycle Management System**
+## BRAC University Student Life Cycle Management System
 
 <p align="center">
 <img width="375" alt="Connect" src="https://github.com/user-attachments/assets/1c3b4a14-13c8-4105-bfef-c6722b8e3f87" />
@@ -17,10 +17,11 @@
 ✅ **Digital ID Card** – Access your university ID card digitally, anytime, anywhere.  
 ✅ **User-Friendly Interface** – Designed for seamless navigation and ease of use.  
 ✅ **More Features Coming Soon!** – We’re constantly working to add more exciting features to enhance your experience.
-
+<p>
 <img src="https://github.com/user-attachments/assets/8b854476-7adb-42f1-9be6-54bdda24a89c" alt="Alt Text" width="278" height="500">
 <img src="https://github.com/user-attachments/assets/f88ef3ea-a687-4ab7-b474-d0ccda465d49" alt="Alt Text" width="278" height="500">
 <img src="https://github.com/user-attachments/assets/92212f1b-1fa2-49cf-855b-f92cb9355810" alt="Alt Text" width="278" height="500">
+</p>
 ---
 ## Why BRACU CONNECT? 💡
 * BRACU CONNECT is built to simplify your university life by centralizing all essential tools and information into one convenient app. Whether you're checking your schedule, viewing results, or accessing your digital ID, BRACU CONNECT ensures you stay connected and organized.

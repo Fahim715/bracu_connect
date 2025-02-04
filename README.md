@@ -34,4 +34,27 @@
 * BRACU CONNECT will soon be available for download on the **App Store** and **Play Store**. Stay tuned for updates!
 ---
 
+
+## 👨‍💻 Developer Credits
+
+### S. M. Shakil Ahmed  
+- 🎓 **ID:** 21201011  
+- 📧 [Email](mailto:sm.shakil.ahme@g.bracu.ac.bd)  
+- 💻 [GitHub](https://github.com/shakilofficial0)  
+- 🌐 [Facebook](https://www.facebook.com/shakilofficialdll) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)
+
+### Sakib  
+- 🎓 **ID:** 23101316  
+- 📧 [Email](mailto:md.sakib.hossain2@g.bracu.ac.bd)  
+- 💻 [GitHub](https://github.com/sakibhossain0)  
+- 🌐 [Facebook](https://www.facebook.com/sakib.hossain.927415) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)
+
+### Mehrab  
+- 🎓 **ID:** 21101190  
+- 📧 [Email](mailto:mehrab.islam.fahim@g.bracu.ac.bd)  
+- 💻 [GitHub](https://github.com/Fahim715)  
+- 🌐 [Facebook](https://www.facebook.com/mohammad.mehrab.3958) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)
+
+---
+
 **BRACU CONNECT** – Simplifying your university life, one tap at a time. 🎓✨  

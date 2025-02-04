@@ -7,6 +7,10 @@
 <img width="375" alt="Connect-2" src="https://github.com/user-attachments/assets/bf72e68b-0cbb-4c4d-b973-c01c3286f80c" />
 </p>
 
+
+
+[![github](https://raw.githubusercontent.com/Fahim715/bracu_connect/refs/heads/main/download_apk.png)](https://github.com/Fahim715/bracu_connect/releases/download/v1.1.3/BRACU_Connect_v1.1.3.apk)
+
 **BRACU CONNECT** is the ultimate university companion app designed exclusively for **BRAC University students**. This all-in-one platform simplifies student life by providing easy access to class schedules, exam details, course information, results, payment tracking, and more – all in one place!
 
 ---

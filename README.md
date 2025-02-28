@@ -17,7 +17,7 @@
 ---
 ## Download 
 <h5>Click the Button Below To Download the APK</h5>
-<a href="https://github.com/Fahim715/bracu_connect/releases/download/v1.1.3/BRACU_Connect_v1.1.3.apk">
+<a href="https://github.com/Fahim715/bracu_connect/releases/download/v1.4.5/bracu_connect_1.4.5.apk">
 <img src="https://raw.githubusercontent.com/Fahim715/bracu_connect/refs/heads/main/download_apk.png" width="300"/>
 </a>
 <h3>IOS Version will be Available Soon</h3>

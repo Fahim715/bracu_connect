@@ -31,7 +31,7 @@
 ✅ **In-App Data Sync Option** – Seamlessly sync data for a smoother experience.  
 ✅ **Logout Option** – Securely log out anytime.  
 ✅ **All Courses View** – See **course time, date, room, and section** in one place.  
-✅ **BracU Bus Schedule Checker** – Quickly check your bus schedules.
+✅ **BracU Bus Schedule Checker** – Quickly check your bus schedules.  
 ✅ **BracU Bus Routes** – Easily check and navigate bus routes.  
 
 ✅ **Class & Exam Schedules** – Stay updated with your daily routine and never miss a class or exam.  

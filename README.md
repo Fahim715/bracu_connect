@@ -76,7 +76,13 @@
 - [![github](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/github.svg)](https://github.com/Fahim715)
 - [![Facebook](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)](https://www.facebook.com/mohammad.mehrab.3958)
 
+
+
 ---
 * Contact Us through sm.shakil.ahmed@g.bracu.ac.bd
 ---
 **BRACU CONNECT** – Simplifying your university life, one tap at a time. 🎓✨  
+
+
+---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFahim715%2Fbracu_connect&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Fahim715/bracu_connect)

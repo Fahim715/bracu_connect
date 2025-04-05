@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img width="375" alt="Connect-2" src="https://github.com/user-attachments/assets/bf72e68b-0cbb-4c4d-b973-c01c3286f80c" />
+<img width="375" alt="Connect-2" src="https://github.com/user-attachments/assets/f82df7bf-ce07-4ffa-b1c3-ca5eea81fa4e" />
 </p>
 
 
@@ -17,7 +17,7 @@
 ---
 ## Download 
 <h5>Click the Button Below To Download the APK</h5>
-<a href="https://github.com/Fahim715/bracu_connect/releases/download/v1.4.5/bracu_connect_1.4.5.apk">
+<a href="https://github.com/Fahim715/bracu_connect/releases/download/v1.7.4/bracu_connect_v1.7.4.apk">
 <img src="https://raw.githubusercontent.com/Fahim715/bracu_connect/refs/heads/main/download_apk.png" width="300"/>
 </a>
 <h3>IOS Version will be Available Soon</h3>
@@ -26,6 +26,10 @@
 ---
 
 ## Features ✨
+
+✅ **CGPA Calculator** – Instantly calculate your GPA, no more guesswork.  
+✅ **Notifications** – Get real-time alerts for campus events and important updates.  
+✅ **BRACU Wingman** – Your personal deadline buddy! Never miss an assignment or exam again.
 
 ✅ **CGPA Analysis** – Track and analyze your academic performance.  
 ✅ **In-App Data Sync Option** – Seamlessly sync data for a smoother experience.  

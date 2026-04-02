@@ -104,4 +104,4 @@ For queries, feedback, or collaboration, reach out to the team:
 
 <p align="center">
   <strong>BRACU Connect</strong> — Simplifying university life, one tap at a time. 🎓
-</p>
+</p> 
